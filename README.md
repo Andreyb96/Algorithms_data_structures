@@ -1,2 +1,2 @@
 # Algorithms_data_structures
-Мои решения по курсу "Алгоритмы: теория и практика. Структуры данных" https://stepik.org/course/1547/syllabus
+Solutions "Algorithms and data structures" https://stepik.org/course/1547/syllabus
